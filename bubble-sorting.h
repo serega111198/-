@@ -1,3 +1,3 @@
-void bubbleSortingUp(int* const, int);
-void bubbleSortingDown(int* const, int );
-void swap(int*, int*);
+int bubbleSortingUp(int* const, int);
+int bubbleSortingDown(int* const, int);
+int swap(int*, int*);
